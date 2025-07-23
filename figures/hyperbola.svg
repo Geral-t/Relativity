@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 428.7 428.6">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-dasharray: 21.3 10.7;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke: #000;
+        stroke-miterlimit: 4.3;
+      }
+
+      .cls-1, .cls-3, .cls-4 {
+        stroke-width: 2.1px;
+      }
+
+      .cls-2 {
+        stroke-width: 1.1px;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.7.1, SVG Export Plug-In . SVG Version: 1.2.0 Build 142)  -->
+  <g>
+    <g id="svg2">
+      <sodipodi:namedview id="base" bordercolor="#666666" borderopacity="1.0" gridtolerance="10.0" guidetolerance="10.0" inkscape:current-layer="svg2" inkscape:cx="260" inkscape:cy="171.7647" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="900" inkscape:window-maximized="0" inkscape:window-width="1006" inkscape:window-x="148" inkscape:window-y="11" inkscape:zoom="1.0461538" objecttolerance="10.0" pagecolor="#ffffff" showgrid="false"/>
+      <g id="_x3C_defs">
+        <inkscape:perspective id="perspective48" inkscape:persp3d-origin="259.99999 : 140 : 1" inkscape:vp_x="0 : 210 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="519.99998 : 210 : 1" sodipodi:type="inkscape:persp3d"/>
+      </g>
+      <g id="g6275">
+        <path id="path7" class="cls-2" d="M214.3,427.9l-.4-426.7M203.3,22.5l10.6-21.3,10.7,21.3M.8,214.7l426.7-.4M405.9,204l21.4,10.6-21.3,10.7" inkscape:connector-curvature="0"/>
+        <path id="path9" class="cls-1" d="M1,428L427.3,1M.6,1.4l427,426.3" inkscape:connector-curvature="0"/>
+        <path id="path17" class="cls-4" d="M320.9,365.3c-12.1-8.5-59.8-44.1-106.7-44.1s-94.6,35.7-106.6,44.3" inkscape:connector-curvature="0"/>
+        <g id="use19">
+          <path id="p2" class="cls-3" d="M320.7,63.6c12.1-8.5,35.4-25.6,78-62.6" inkscape:connector-curvature="0"/>
+        </g>
+        <g id="use21">
+          <path id="p2-2" data-name="p2" class="cls-3" d="M320.9,365.3c12.1,8.5,35.4,25.5,78.1,62.4" inkscape:connector-curvature="0"/>
+        </g>
+        <g id="use23">
+          <path id="p2-3" data-name="p2" class="cls-3" d="M107.3,63.8c-12.1-8.5-35.4-25.5-78.1-62.4" inkscape:connector-curvature="0"/>
+        </g>
+        <g id="use25">
+          <path id="p2-4" data-name="p2" class="cls-3" d="M107.6,365.5c-12.1,8.5-35.4,25.6-78,62.6" inkscape:connector-curvature="0"/>
+        </g>
+        <path id="path2421" class="cls-4" d="M320.4,63.9c-12.1,8.5-59.7,44.2-106.6,44.3s-94.6-35.6-106.7-44.1" inkscape:connector-curvature="0"/>
+      </g>
+    </g>
+  </g>
+</svg>
